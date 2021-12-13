@@ -1,16 +1,18 @@
-### Hi there 👋
+## Olá, pessoa! Obrigado por visitar o meu Github 👋
 
-<!--
-**leottx/leottx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Leonardo, sou um desenvolvedor front-end apaixonado por tecnologia.
 
-Here are some ideas to get you started:
+Além de programação, meus interesses incluem ui/ux e fotografia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Atualmente
+Estou em busca de uma oportunidade para trabalhar como programador.
+
+### Habilidades
+- Front-end: **HTML, CSS, Sass, JavaScript, TypeScript, React, Webpack, Redux, Git**
+- Familiatidade com: **Node.js, Jest, Docker, MongoDb**
+- Possuo interesse em: **GraphQL, Elixir, Express, Python**
+
+### Mais sobre mim
+📪 Email: <a href="mailto:contact.leotx@gmail.com.br/" target="_blank">contact.leotx@gmail.com</a>\
+💻 Portfolio: <a href="https://leonardotx.com.br" target="_blank">leonardotx.com.br</a>\
+💼 Linkedin: <a href="https://www.linkedin.com/in/leotx/" target="_blank">linkedin.com/in/leotx</a>
