@@ -9,7 +9,7 @@ Estou em busca de uma oportunidade para trabalhar como programador.
 
 ### Habilidades
 - Front-end: **HTML, CSS, Sass, JavaScript, TypeScript, React, Webpack, Redux, Git**
-- Familiatidade com: **Node.js, Jest, Docker, MongoDb**
+- Familiaridade com: **Node.js, Jest, Docker, MongoDb**
 - Possuo interesse em: **GraphQL, Elixir, Express, Python**
 
 ### Mais sobre mim
