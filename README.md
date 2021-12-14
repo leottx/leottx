@@ -5,7 +5,7 @@ Me chamo Leonardo, sou um desenvolvedor front-end apaixonado por tecnologia.
 Além de programação, meus interesses incluem ui/ux e fotografia.
 
 ### Atualmente
-Estou em busca de uma oportunidade para trabalhar como programador.
+Estou em busca de uma oportunidade para trabalhar como desenvolvedor júnior.
 
 ### Habilidades
 - Front-end: **HTML, CSS, Sass, JavaScript, TypeScript, React, Webpack, Redux, Git**
