@@ -10,7 +10,7 @@ Estou em busca de uma oportunidade para trabalhar como desenvolvedor júnior.
 ### Habilidades
 - Front-end: **HTML, CSS, Sass, JavaScript, TypeScript, React, Webpack, Redux, Git**
 - Familiaridade com: **Node.js, Jest**
-- Possuo interesse em: **GraphQL, Express, MongoDb**
+- Possuo interesse em: **GraphQL, Express, MongoDB**
 
 ### Mais sobre mim
 📪 Email: <a href="mailto:contact.leotx@gmail.com.br/" target="_blank">contact.leotx@gmail.com</a>\
