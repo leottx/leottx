@@ -8,8 +8,7 @@ Além de programação, meus interesses incluem ui/ux e fotografia.
 Estou em busca de uma oportunidade para trabalhar como desenvolvedor júnior.
 
 ### Habilidades
-- Front-end: **HTML, CSS, Sass, JavaScript, TypeScript, React, Webpack, Redux, Git**
-- Familiaridade com: **Node.js, Jest**
+- Front-end: **HTML, CSS, Sass, JavaScript, TypeScript, React, Git**
 - Possuo interesse em: **GraphQL, Express, MongoDB**
 
 ### Mais sobre mim
