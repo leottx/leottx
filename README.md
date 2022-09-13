@@ -9,7 +9,7 @@ Atuo como Desenvolvedor Front-End na [b8one](https://www.b8one.com/)
 
 ### Habilidades
 - Front-end: **HTML, CSS, Sass, JavaScript, TypeScript, React, Git**
-- Possuo interesse em: **GraphQL, Express, MongoDB**
+- Possuo interesse em: **GraphQL, Express, MongoDB, MySQL**
 
 ### Mais sobre mim
 📪 Email: <a href="mailto:contact.leotx@gmail.com.br/" target="_blank">contact.leotx@gmail.com</a>\
