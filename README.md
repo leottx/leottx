@@ -8,7 +8,7 @@ Além de programação, meus interesses incluem ui/ux e fotografia.
 Atuo como Desenvolvedor Front-End na [b8one](https://www.b8one.com/)
 
 ### Habilidades
-- Front-end: **HTML, CSS, Sass, JavaScript, TypeScript, React, Git**
+- Front-end: **HTML, CSS, Sass, JavaScript, TypeScript, React, Git, Jest**
 - Possuo interesse em: **GraphQL, Express, MongoDB, MySQL**
 
 ### Mais sobre mim
