@@ -4,9 +4,6 @@ Me chamo Leonardo, sou um desenvolvedor front-end apaixonado por tecnologia.
 
 Além de programação, meus interesses incluem ui/ux e fotografia.
 
-### Atualmente
-Atuo como Desenvolvedor Front-End na [b8one](https://www.b8one.com/)
-
 ### Habilidades
 - Front-end: **HTML, CSS, Sass, JavaScript, TypeScript, React, Git, Jest**
 - Possuo interesse em: **GraphQL, Express, Node.js**
